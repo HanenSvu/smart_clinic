@@ -4,7 +4,7 @@ import 'package:shared_preferences/shared_preferences.dart';
 
 class ApiClient {
   // ✅ استخدم localhost أو IP الحقيقي
-  static const String baseUrl = 'http://localhost:8000/api';
+  static const String baseUrl = 'http://192.168.1.106:8000/api';
   
   late Dio dio;
   
