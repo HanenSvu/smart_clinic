@@ -1,4 +1,3 @@
-//import 'package:shared_preferences/shared_preferences.dart';
 import '../models/appointment.dart';
 import '../models/user.dart';
 import '../models/specialty.dart';
